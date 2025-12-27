@@ -1,7 +1,4 @@
 public class Strongnumberrange {
-    
-}
-public class Strongnumberrange {
 
     // method to calculate factorial
     static int factorial(int n) {
